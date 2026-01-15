@@ -1179,7 +1179,7 @@ elif app_mode == "ℹAbout":
 st.markdown("---")
 footer_col1, footer_col2, footer_col3 = st.columns([2, 1, 1])
 with footer_col1:
-    st.caption("© 2024 HealthTech AI - Diabetes Prediction Dashboard")
+    st.caption("© ThankGod Israel Cloud Computing Project - Diabetes Prediction Dashboard")
 with footer_col2:
     st.caption("Version: 2.1.0")
 with footer_col3:
